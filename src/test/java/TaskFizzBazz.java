@@ -15,7 +15,9 @@ public class TaskFizzBazz {
             }
         }
     }
-//    public void checkArray() {
+//    public void checkArray() {vewvvwvwevwevwev
+    wvewvewv
+    wevw
 //        for (int i = 1; i <= 100; i++) {
 //            if (i % 15 == 0) {
 //                System.out.println("FizzBazz");
