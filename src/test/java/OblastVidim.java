@@ -19,4 +19,10 @@ public class OblastVidim {
         age = 20.5;
         System.out.println(age);
     }
+//    @Test
+//    public void duitTo() {
+//        System.out.println(age);
+//        age = 20.5;
+//        System.out.println(age);
+//    }
 }
