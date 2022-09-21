@@ -12,5 +12,6 @@ public class Metod1 {
     public String rep(String str) {
 
         return str.replace("a", ".");
+        return str.replace("a", ".");
     }
 }
